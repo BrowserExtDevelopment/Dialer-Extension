@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williankeller/browser-extension-boilerplate"
+    "url": "https://github.com/webdev0528/Dialer-Extension.git"
   },
   "keywords": [
     "extension",
@@ -39,9 +39,9 @@
     "firefox-addon"
   ],
   "bugs": {
-    "url": "https://github.com/williankeller/browser-extension-boilerplate/issues"
+    "url": "https://github.com/webdev0528/Dialer-Extension.git/issues"
   },
-  "homepage": "https://github.com/williankeller/browser-extension-boilerplate",
+  "homepage": "https://github.com/webdev0528/Dialer-Extension.git",
   "standard": {
     "globals": [
       "browser",
